@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["msg"],"mappings":";;;;;aAAA,IAAMA,IAAM","file":"../js/main.js","sourcesContent":["const msg = 'output from main.js';\n\nconsole.log(msg);\n"]}
